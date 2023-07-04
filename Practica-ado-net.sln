@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discos-practica", "discos-practica\discos-practica.csproj", "{4009BF34-816B-4837-8A44-712FBEEBEBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4009BF34-816B-4837-8A44-712FBEEBEBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4009BF34-816B-4837-8A44-712FBEEBEBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4009BF34-816B-4837-8A44-712FBEEBEBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4009BF34-816B-4837-8A44-712FBEEBEBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2E0DCA-F136-4CD3-9394-049104D92DEE}
+	EndGlobalSection
+EndGlobal
